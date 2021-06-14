@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
 import Recipe from "./pages/Recipe";
 import Timer from "./pages/Timer";
+ import "./App.css";
 
 const App = () => {
   return (
